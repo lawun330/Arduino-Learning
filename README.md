@@ -1,2 +1,4 @@
 # My_arduino_projects
-The hard projects I love as a beginner.
+I learnt arduino last year and did projects on my own. 
+Here are some projects that causes me headache!!
+ 
