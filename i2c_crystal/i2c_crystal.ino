@@ -66,7 +66,7 @@ lcd.backlight();            //light on
 }
 
 void loop() {
-/*
+
 if (bluetooth.available()){
   
 char atPh=bluetooth.read();      //read bluetooth data and store in char "ph"
@@ -107,5 +107,5 @@ if (Serial.available()){
   char atCom=Serial.read();  
   bluetooth.write(atCom);    //display in ph's app
   Serial.print(atCom);       //also in serial monitor to check what you've sent  //optional
-}*/
+}
 }
