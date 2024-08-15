@@ -1,7 +1,7 @@
 # Arduino Learning
 I learned Arduino in 2018 and did projects throughout the years. This repository is a reflection of my learning journey. 
 
-Except the directories `libraries` and `useful codes by other people`, all other items are created by me.
+Except the directories `libraries` and `useful codes by other people`, all items are created by me.
 Since the Arduino platform is open-source, so are my codes. Feel free to fork this repository and use them!!!
 
 You will need to have necesssary electronics components. For an online simulator, [Tinkercad](https://www.tinkercad.com/dashboard/designs/circuits) provides basic functionalities.
