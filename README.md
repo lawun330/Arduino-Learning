@@ -18,10 +18,10 @@ Some of my significant projects contained in this repository are-
 - distance measurer
 - time counter
 - smart home
-- battle shooter
+- robot dog (in progress)
 
-| ![light-automation](./03.%20small%20system-level%20codes/auto_light_up_in_dark_circuit.png) | ![bluetooth-controlled-car](./03.%20small%20system-level%20codes/car_with_serial.png) |
+| ![light-automation](./03.%20small%20system-level%20codes/auto_light_up_in_dark_circuit.png) | ![bluetooth-controlled-car](./02.%20components-combination-level%20codes%20(experimental)/car_with_serial.png) |
 |--------------------------------------------------------------------|--------------------------------------------------------------------|
 | ![fire-alarm](./03.%20small%20system-level%20codes/fire_alarm_circuit.png) | ![traffic-light](./03.%20small%20system-level%20codes/traffic_light_circuit.png) |
 | ![distance-measurer](./03.%20small%20system-level%20codes/ultrasonic_sensor_with_16x2LCD.png) | ![time-counter](./02.%20components-combination-level%20codes%20(experimental)/7_segment_displays_as_counter.png) |
-| ![smart-home](./04.%20medium%20system-level%20codes/smart_home_KMD_project.png) | |
+| ![smart-home](./04.%20medium%20system-level%20codes/smart_home_KMD_project.png) | ![robot-dog](,/spot-mini-wannabe.png)|
