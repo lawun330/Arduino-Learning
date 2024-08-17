@@ -1,6 +1,10 @@
 /* This script is me and my partner's first big project with the Arduino platform.
  
- * ##### Smart Home Automation Project ##### - by me and Thiha
+ * ##### Smart Home Automation Project #####
+ * TEAM MEMBERS: 2 
+ *  - LA WUN NANNDA 
+ *  - THIHA
+ *
  * This project uses an Arduino Mega to create a smart home system with various sensors and actuators.
  * 
  * Components used:
