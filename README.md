@@ -1,8 +1,12 @@
 # Arduino Learning
 I learned Arduino in 2018 and did projects throughout the years. This repository is a reflection of my learning journey. 
 
-Except the directories `libraries` and `useful codes by other people`, all items are created by me.
-The `in-progress` directory contains files for projects that are still under development.
+I create all items except those in the following directories: 
+- **collaborations**
+- **libraries**
+- **useful codes by other people**.
+
+The **in-progress** directory contains files for projects that are still under development.
 
 Since the Arduino platform is open-source, so are my codes. Feel free to fork this repository and use them!!!
 
@@ -12,7 +16,7 @@ For the software, you can install the Arduino IDE [from here](https://www.arduin
 
 # Projects Preview
 
-Some of my significant projects contained in this repository are-
+Some useful projects in this repository are-
 - light automation
 - voice-controlled bluetooth-controlled car
 - fire-alarm
@@ -20,9 +24,9 @@ Some of my significant projects contained in this repository are-
 - distance measurer
 - time counter
 - safe lock
-- smart home
-- line follower (in progress)
-- robot dog (in progress)
+- smart home - `collaborations`
+- line follower - `in progress`
+- robot dog - `collaborations` , `in progress`
 
 | ![light-automation](./03.%20small%20system-level%20codes/auto_light_up_in_dark_circuit.png) | ![bluetooth-controlled-car](./02.%20components-combination-level%20codes%20(experimental)/car_with_serial_circuit.png) |
 |--------------------------------------------------------------------|--------------------------------------------------------------------|
