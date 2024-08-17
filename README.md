@@ -35,6 +35,6 @@ Some useful projects in this repository are-
 | ![safe-lock](./03.%20small%20system-level%20codes/DIP_switch_safe_locker_circuit.png) |
 
 
-| ![smart-home](./04.%20medium%20system-level%20codes/smart_home_KMD_project.png) |
+| ![smart-home](./collaborations/smart_home_KMD_project.png) |
 |--------------------------------------------------------------------|
 | ![robot-dog](./in-progress/spot-mini-wannabe.jpg) |
