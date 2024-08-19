@@ -32,7 +32,7 @@ Some useful projects in this repository are-
 |--------------------------------------------------------------------|--------------------------------------------------------------------|
 | ![fire-alarm](./03.%20small%20system-level%20codes/fire_alarm_circuit.png) | ![traffic-light](./03.%20small%20system-level%20codes/traffic_light_circuit.png) |
 | ![distance-measurer](./03.%20small%20system-level%20codes/ultrasonic_sensor_with_16x2LCD_circuit.png) | ![time-counter](./02.%20components-combination-level%20codes%20(experimental)/7_segment_displays_as_counter_circuit.png) |
-| ![safe-lock](./03.%20small%20system-level%20codes/DIP_switch_safe_locker_circuit.png) |
+| ![ThingSpeak-API](03.%20small%20system-level%20codes/ESP8266_WiFi_module_to_ThingSpeak_reading.png) | ![safe-lock](./03.%20small%20system-level%20codes/DIP_switch_safe_locker_circuit.png) |
 
 
 | ![smart-home](./collaborations/smart_home_KMD_project.png) |
